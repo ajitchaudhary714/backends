@@ -1,0 +1,24 @@
+{
+  "name": "backends",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/ajitchaudhary714/backends#readme",
+  "bugs": {
+    "url": "https://github.com/ajitchaudhary714/backends/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajitchaudhary714/backends.git"
+  },
+  "license": "ISC",
+  "author": "ajit verma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
