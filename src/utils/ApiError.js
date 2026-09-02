@@ -10,7 +10,7 @@ class ApiError extends Error {
     this.data = null;
     this.message = message;
     this.success = false;
-    this.errors = errors
+    this.errors = error;
 
 
     if (stack){
@@ -21,4 +21,4 @@ class ApiError extends Error {
   }
 }
 
-exports ( ApiError)
+export { ApiError };
